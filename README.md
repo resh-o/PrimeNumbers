@@ -1,5 +1,4 @@
 # ✖️➕➖➗Prime Finder
----
 This program is responsible for finding prime numbers up to a certain number it also defines which prime number it is.
 
 ## 😶‍🌫️How to run the program
