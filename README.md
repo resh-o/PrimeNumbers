@@ -20,4 +20,4 @@ This program is responsible for finding prime numbers up to a certain number it 
 - Defined calculations
 
 ## 🫤Challenges and Solutions
-- The main challenge i faced was conseptulizing the mathematic calculations but once i found the algorithm to identify primes it made it simpler.
+- The main challenge i faced was conceptualizing the mathematic calculations but once i found the algorithm to identify primes it made it simpler.
